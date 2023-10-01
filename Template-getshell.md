@@ -8,7 +8,7 @@ Link:https://github.com/emlog/emlog/releases/tag/pro-2.2.0
 
 ![image](https://github.com/yangliukk/emlog/assets/130351664/0a6910e3-eb8b-4bfa-97fd-55b6a128825c)
 
-Create a compressed file containing a malicious php file
+Create a compressed file containing a malicious php file.I provide Template exploit.zip
 ![image](https://github.com/yangliukk/emlog/assets/130351664/3d18d735-c4e7-47d5-8c55-37412a485d44)
 
 Upload the malicious compressed package we created in the website background
